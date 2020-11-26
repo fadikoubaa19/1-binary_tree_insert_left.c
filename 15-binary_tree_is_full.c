@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_full - full 1 not full 0 
+ * binary_tree_is_full - full 1 not full 0
  * @tree: var
  * Return: 0 or 1
  */
